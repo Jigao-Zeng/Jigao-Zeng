@@ -2,7 +2,7 @@
 - 👀 I’m interested in songs and basketball.
 - 🌱 I’m currently doing bachelor of software engineering degree in my final year.
 - 💞️ I’m looking to collaborate on real front end or back end software development work.
-- 📫 How to reach me 
+
 
 <!---
 Jigao-Zeng/Jigao-Zeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
